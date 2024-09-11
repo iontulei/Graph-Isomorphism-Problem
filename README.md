@@ -4,7 +4,7 @@
 
 **Date:** 15-04-2024
 
-**Team 65:**
+**Contributions:**
 - [Dragoș Erhan](https://github.com/Headpoint2042)  
 - [Ion Tulei](https://github.com/iontulei)
 - [Alexandru Verhovețchi](https://github.com/Alex-Verh)
