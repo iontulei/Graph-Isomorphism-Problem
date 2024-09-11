@@ -4,7 +4,7 @@
 
 **Date:** 15-04-2024
 
-**Contributions:**
+**Contributors:**
 - [Dragoș Erhan](https://github.com/Headpoint2042)  
 - [Ion Tulei](https://github.com/iontulei)
 - [Alexandru Verhovețchi](https://github.com/Alex-Verh)
