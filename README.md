@@ -1,4 +1,4 @@
-# Implementation Project Graph Isomorphism
+# Implementation Project - Graph Isomorphism
 
 **Module 7, Bachelor of Technical Computer Science, University of Twente**
 
